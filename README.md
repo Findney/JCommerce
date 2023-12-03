@@ -1,4 +1,4 @@
-# JCommerce
+# Online Shopping App
 Java code for the Object Oriented Programming final lab exam
 
 Team members:
