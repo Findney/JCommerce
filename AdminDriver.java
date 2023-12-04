@@ -22,7 +22,7 @@ public class AdminDriver extends Driver {
     private Invoice invoice;
     private static final String transaksiPath = "database/transaksi/";
     private static final String transaksiFile = "transaksi.txt";
-    private static final String barangFileName = "database/barang.txt";
+    private static final String barangFileName = "database/barang/dataBarang.txt";
 
     /**
      * Konstruktor default untuk kelas {@code AdminDriver}.
